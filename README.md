@@ -18,7 +18,6 @@ $ npm install --save meow-names
 const meowNames = require('meow-names');
 
 meowNames.random();
-//=> 'Max'
 ```
 
 
