@@ -1,0 +1,31 @@
+{
+  "name": "meow-names",
+  "version": "1.0.1",
+  "description": "Get popular random cat names",
+  "license": "MIT",
+  "repository": "shreyawhiz/meow-names",
+  "author": {
+    "name": "Shreya Batra",
+    "email": "shreyabatra1992@gmail.com",
+    "url": "shreyawhiz.me"
+  },
+  "keywords": [
+    "bin",
+    "word",
+    "words",
+    "list",
+    "array",
+    "random",
+    "rand",
+    "animal",
+    "cat",
+    "cats",
+    "kitten",
+    "name",
+    "names",
+    "female",
+    "male",
+    "meow",
+    "meowington"
+  ]
+}
