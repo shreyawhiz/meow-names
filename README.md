@@ -12,13 +12,34 @@ $ npm install --save meow-names
 ```
 
 
-## Usage
+## Usages
 
 ```js
 const meowNames = require('meow-names');
 
 meowNames.random();
-//=> 'Max'
+```
+
+## CLI
+
+```
+$ npm install --global cat-names
+```
+
+```
+$ cat-names --help
+
+  Examples
+    $ cat-names
+    Max
+
+    $ cat-names --all
+    Abby
+    Angel
+    ...
+
+  Options
+    --all   Get all names instead of a random name
 ```
 
 
